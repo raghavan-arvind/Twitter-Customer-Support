@@ -6,7 +6,6 @@ from .TwitterAPI import searchTimeLine, usernameExist
 
 # Create your views here.
 def index(request):
-    print(request.)
     # blank form
     form = QueryForm()
 
