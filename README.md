@@ -10,7 +10,7 @@ The HTML and CSS pages for this project were created with Bootstrap, though each
 
 ## Future Plans
 In the future, I'd like to:
-* Automatically hash a companies tweets and store them for fast retreival
+* Automatically hash a company's tweets and store them for fast retreival
 * Add a "Like" feature that allows people to indicate what tweets are helpful
 
 ## Some Images
