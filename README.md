@@ -14,6 +14,6 @@ In the future, I'd like to:
 * Add a "Like" feature that allows people to indicate what tweets are helpful
 
 ## Some Images
-![alt text](images/img1.jpg)
-![alt text](images/img2.jpg)
-![alt text](images/img3.jpg)
+![alt text](images/img1.png)
+![alt text](images/img2.png)
+![alt text](images/img3.png)
